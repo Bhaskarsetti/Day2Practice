@@ -14,7 +14,11 @@ public class Practice2 {
 		boolean bl = true;
 		String S = "Bhaskar";
 		System.out.println("The Date is" +"\n"+b+"\n"+s+"\n"+i+"\n"+l+"\n"+f+"\n"+c+"\n"+d+"\n"+bl+"\n"+S);
-		
+		// Data Type Cobversaion
+		float f2=c;
+		double dl2=c;
+		long l2=c;
+		System.out.println("The Date is" +"\n"+l2+"\n"+f2+"\n"+"\n"+dl2);
 
 	}
 
