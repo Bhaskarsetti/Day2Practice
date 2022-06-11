@@ -19,6 +19,9 @@ public class Practice2 {
 		double dl2=c;
 		long l2=c;
 		System.out.println("The Date is" +"\n"+l2+"\n"+f2+"\n"+"\n"+dl2);
+		String str = "Hello";
+		String x = str+S;
+		System.out.println(x);
 
 	}
 
